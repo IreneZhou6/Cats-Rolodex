@@ -1,0 +1,12 @@
+.cardBox {
+    width: 200px;
+    margin-top: 40px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #95dada;
+}
+
+.cardBox:hover {
+    transform: scale(1.05);
+    transition: all 0.3s;
+}
